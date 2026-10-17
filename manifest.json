@@ -1,0 +1,35 @@
+{
+    "name": "온유 이유식 큐브 관리",
+    "short_name": "이유식 큐브",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#FAF7F0",
+    "theme_color": "#FAF7F0",
+    "description": "이유식 식단과 큐브 재고를 기기에서 관리해요.",
+    "orientation": "any",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
